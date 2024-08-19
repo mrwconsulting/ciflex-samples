@@ -8,6 +8,7 @@ tagline: >-
 url: 'https://mrwconsulting.github.io'
 canonical_url: 'https://mrwconsulting.github.io'
 layout: page
+categories: CDK Cognito Dynamodb CodeBuild CodePipeline ServiceCatalog Platform
 markdown: kramdown
 permalink: pretty
 google_site_verification: OeGS0wbadQfPK17khgBr37EPrl70c4-V_gORkbjV5rg
