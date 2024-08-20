@@ -18,6 +18,9 @@ defaults:
     values:
       layout: default
       seo_description_max_words: 160
+show_downloads: true
+google_analytics: ["G-3XXH1J3V08"]
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
